@@ -1,6 +1,6 @@
 ﻿' Name:         Utilities Project
 ' Purpose:      Display utility bills.
-' Programmer:   <your name> on <current date>
+' Programmer:   Ian on 04/09/2020
 
 Option Explicit On
 Option Strict On
